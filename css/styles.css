@@ -1,0 +1,30 @@
+
+.italic {
+    font-style: italic;
+}
+
+.thick {
+    font-weight: bold;
+}
+
+.card {
+    border: 1px solid;
+    border-color: #c9c9c9;
+    height: 575px;
+    width: 305px;
+    box-shadow: 5px 5px 5px -1px rgba(171,166,171,1);
+    padding: 0px 15px 20px;
+}
+
+.border {
+    border: 1px solid grey;
+    border-color: #c9c9c9;
+    height: 275px;
+    width: 269px;
+    padding: 0px 15px 15px;
+
+}
+
+.image {
+    padding: 0px 0px 15px;
+}
